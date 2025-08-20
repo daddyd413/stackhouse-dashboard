@@ -1,5 +1,5 @@
 import React from 'react';
-import StackhouseDashboard from './components/dashboard/StackhouseDashboard_full';
+import StackhouseDashboard from './components/dashboard/StackhouseDashboard';
 
 function App() {
   return <StackhouseDashboard />;
